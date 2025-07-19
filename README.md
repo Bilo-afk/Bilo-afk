@@ -30,6 +30,9 @@
   <a href="https://open.spotify.com/collection/tracks" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
+  <a href="https://steamcommunity.com/id/3_RB" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-171a21?style=flat&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
 </p>
 
 </div>
