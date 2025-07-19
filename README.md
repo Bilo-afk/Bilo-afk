@@ -1,5 +1,6 @@
 <div align="center" width="50%">
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&color=00FF99&center=true&vCenter=true&width=600&height=80&lines=I%27m+Belal" alt="I'm Belal typing gif" /><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br>
 
@@ -10,7 +11,7 @@
 <details>
   <summary><strong>🎧 Busy coding & Vibing to :</strong></summary>
   <br>
-  <a href="https://open.spotify.com/user/somnathpaul">
+  <a href="https://open.spotify.com/collection/tracks">
     <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </details>
@@ -25,6 +26,9 @@
   </a>
   <a href="mailto:belalhms11132@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://open.spotify.com/collection/tracks" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
 </p>
 
