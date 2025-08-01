@@ -80,8 +80,9 @@ class About extends Me {
 
 <details>
 <summary>More stats</summary>
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/Bilo-afk/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" />
 </details>
+
 
 <!-- GitHub Streak -->
 <p align="center">
