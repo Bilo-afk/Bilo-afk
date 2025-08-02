@@ -1,3 +1,21 @@
+<p style="margin-top: 1rem; font-size: 1rem;">
+  <strong>🎧 مشغول بالبرمجة والتفاعل على:</strong><br><br>
+  <a href="https://github.com/Bilo-afk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/bilo_220/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:belalhms11132@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://open.spotify.com/collection/tracks" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199546966255/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-171a21?style=flat&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+</p>
 <div align="center" width="50%">
 
 
@@ -30,11 +48,12 @@
   <a href="https://open.spotify.com/collection/tracks" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
-  <a href="https://steamcommunity.com/profiles/76561199546966255/" target="_blank">
+  <a href="https://steamcommunity.com/id/3_RB" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171a21?style=flat&logo=steam&logoColor=white" alt="Steam"/>
   </a>
 </p>
 
+</div>
 
 ---
 
